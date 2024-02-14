@@ -3,7 +3,7 @@
 
 I'm excited to showcase my work on a project in the FMCG domain, focusing on Sales & Finance Analytics! In this project, I created various insightful reports to empower businesses with comprehensive customer and financial insights.
 
-##For Sales:
+## For Sales:
 
 - Detailed customer performance reports: Analyzed customer net sales across years, comparing 2021 & 2020 to identify trends and top performers.
  
@@ -11,7 +11,7 @@ I'm excited to showcase my work on a project in the FMCG domain, focusing on Sal
 
 - And more! These reports provided valuable insights to understand customer behavior, sales patterns, and market performance.
 
-##For Finance:
+## For Finance:
 
 - Profit & Loss analysis: Calculated key metrics like net sales, COGS, gross margin, and margin %, tracking them across time periods and markets.
 
@@ -19,7 +19,7 @@ I'm excited to showcase my work on a project in the FMCG domain, focusing on Sal
 
 - Data-driven decision making: These reports empowered businesses to make informed financial decisions based on accurate data.
 
-##Technical Skills Gained:
+## Technical Skills Gained:
 
 - ETL, data cleaning, data modeling (star schema)
 - Adding date tables and time dimensions using Power Query
@@ -27,7 +27,7 @@ I'm excited to showcase my work on a project in the FMCG domain, focusing on Sal
 - Report formatting & user-centric design
 - Pivot tables, Power Pivot, measures, DAX, data validation
 
-Beyond technical skills:
+## Beyond technical skills:
 
 - Honed soft skills like communication and collaboration
 - Gained valuable domain knowledge in Sales & Finance
