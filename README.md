@@ -19,20 +19,20 @@ I'm excited to showcase my work on a project in the FMCG domain, focusing on Sal
 
 - Data-driven decision making: These reports empowered businesses to make informed financial decisions based on accurate data.
 
-## Skills Gained Through this Project 
+## Learnings:
+    
+   ### Technical Skills Gained:
 
-### Technical Skills Gained:
+   - ETL, data cleaning, data modeling (star schema)
+   - Adding date tables and time dimensions using Power Query
+   - Sales & Finance domain knowledge
+   - Report formatting & user-centric design
+   - Pivot tables, Power Pivot, measures, DAX, data validation
 
-- ETL, data cleaning, data modeling (star schema)
-- Adding date tables and time dimensions using Power Query
-- Sales & Finance domain knowledge
-- Report formatting & user-centric design
-- Pivot tables, Power Pivot, measures, DAX, data validation
+   ### Beyond technical skills:
 
-### Beyond technical skills:
-
-- Honed soft skills like communication and collaboration
-- Gained valuable domain knowledge in Sales & Finance
-- Understood the crucial role of business acumen alongside technical expertise
+   - Honed soft skills like communication and collaboration
+   - Gained valuable domain knowledge in Sales & Finance
+   - Understood the crucial role of business acumen alongside technical expertise
 
 
